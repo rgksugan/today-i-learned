@@ -1,5 +1,8 @@
 # today-i-learned
 
+
+### July 20, 2018 
+- [✨Locally Scoped CSS Variables: What, How, and Why | Una Kravets Online✨](https://una.im/local-css-vars/) 
 ### July 18, 2018 
 - [The Cost Of JavaScript – Dev Channel – Medium](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e) 
 ### July 11, 2018 
