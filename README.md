@@ -2,6 +2,9 @@
 
 
 
+
+### July 24, 2018 
+- [Hacking user perception to make your websites and apps feel faster](https://medium.com/dev-channel/hacking-user-perception-to-make-your-websites-and-apps-feel-faster-922636b620e3) 
 ### July 23, 2018 
 - [Between the Lines | CSS-Tricks](https://css-tricks.com/between-the-lines/) 
 ### July 20, 2018 
