@@ -7,6 +7,7 @@
 
 ### August 24, 2018 
 - [IntersectionObserver’s Coming into View  |  Web  |  Google Developers](https://developers.google.com/web/updates/2016/04/intersectionobserver) 
+- [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver — Smashing Magazine](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/) 
 ### July 27, 2018 
 - [Speed up website page loading (part 1 - Tools) – carwow Product, Design & Engineering – Medium](https://medium.com/carwow-product-engineering/speed-up-website-page-loading-part-1-tools-67cbe3274aa7) 
 ### July 24, 2018 
