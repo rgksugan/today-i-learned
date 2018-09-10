@@ -5,6 +5,9 @@
 
 
 
+
+### September 10, 2018 
+- [History API: Scroll Restoration  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration) 
 ### August 24, 2018 
 - [Now You See Me: How To Defer, Lazy-Load And Act With IntersectionObserver — Smashing Magazine](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/) 
 ### July 27, 2018 
