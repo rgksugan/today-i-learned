@@ -6,6 +6,9 @@
 
 
 
+
+### September 11, 2018 
+- [The Device Memory API  |  Web  |  Google Developers](https://developers.google.com/web/updates/2017/12/device-memory) 
 ### September 10, 2018 
 - [History API: Scroll Restoration  |  Web  |  Google Developers](https://developers.google.com/web/updates/2015/09/history-api-scroll-restoration) 
 ### August 24, 2018 
