@@ -8,6 +8,9 @@
 
 
 
+
+### September 26, 2018 
+- [Chrome User Experience Report Explained with Google BigQuery | Dexecure](https://dexecure.com/blog/chrome-user-experience-report-explained-google-bigquery/) 
 ### September 21, 2018 
 - [How to Become a Better Software Developer: A Handbook on Personal Performance – 7pace Blog](https://www.7pace.com/blog/become-a-better-programmer-skills-development) 
 ### September 11, 2018 
