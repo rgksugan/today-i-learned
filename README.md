@@ -9,6 +9,9 @@
 
 
 
+
+### September 27, 2018 
+- [Updating a CSS Variable with JavaScript | CSS-Tricks](https://css-tricks.com/updating-a-css-variable-with-javascript/) 
 ### September 26, 2018 
 - [Chrome User Experience Report Explained with Google BigQuery | Dexecure](https://dexecure.com/blog/chrome-user-experience-report-explained-google-bigquery/) 
 ### September 21, 2018 
