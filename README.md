@@ -13,6 +13,7 @@
 ### September 27, 2018 
 - [Updating a CSS Variable with JavaScript | CSS-Tricks](https://css-tricks.com/updating-a-css-variable-with-javascript/) 
 - [Impact of 3G vs 4G Connections on User Experience across Countries | Dexecure](https://dexecure.com/blog/impact-3g-vs-4g-connections-user-experience-countries/) 
+- [Impact of a Country Specific Website on User Experience | Dexecure](https://dexecure.com/blog/impact-country-specific-website-user-experience/) 
 ### September 26, 2018 
 - [Chrome User Experience Report Explained with Google BigQuery | Dexecure](https://dexecure.com/blog/chrome-user-experience-report-explained-google-bigquery/) 
 ### September 21, 2018 
