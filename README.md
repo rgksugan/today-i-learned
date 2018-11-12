@@ -14,6 +14,7 @@
 
 ### November 12, 2018 
 - [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers — Smashing Magazine](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/) 
+- [Common icon design problems you should avoid - Yellowstroke.com](https://yellowstroke.com/2018/09/17/five-icon-design-problems/) 
 ### November 8, 2018 
 - [HTML: A good basis for accessibility - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) 
 ### September 27, 2018 
