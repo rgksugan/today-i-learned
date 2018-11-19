@@ -12,6 +12,9 @@
 
 
 
+
+### November 19, 2018 
+- [Who's Your Coding Buddy?](https://blog.codinghorror.com/whos-your-coding-buddy/) 
 ### November 12, 2018 
 - [Smart Bundling: How To Serve Legacy Code Only To Legacy Browsers — Smashing Magazine](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/) 
 - [Common icon design problems you should avoid - Yellowstroke.com](https://yellowstroke.com/2018/09/17/five-icon-design-problems/) 
