@@ -13,6 +13,9 @@
 
 
 
+
+### January 29, 2019 
+- [How To Poison The Mobile User — Smashing Magazine](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 
 ### November 19, 2018 
 - [Who's Your Coding Buddy?](https://blog.codinghorror.com/whos-your-coding-buddy/) 
 ### November 12, 2018 
