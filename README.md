@@ -14,6 +14,9 @@
 
 
 
+
+### April 4, 2019 
+- [You're not going to believe what I'm about to tell you - The Oatmeal](https://theoatmeal.com/comics/believe) 
 ### January 29, 2019 
 - [How To Poison The Mobile User — Smashing Magazine](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) 
 ### November 19, 2018 
