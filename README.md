@@ -19,6 +19,7 @@
 
 ### May 28, 2019 
 - [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/?id=132) 
+- [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html) 
 ### May 24, 2019 
 - [FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html) 
 - [BroadStackTest](https://martinfowler.com/bliki/BroadStackTest.html) 
