@@ -16,6 +16,9 @@
 
 
 
+
+### May 28, 2019 
+- [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/?id=132) 
 ### May 24, 2019 
 - [FeatureToggle](https://martinfowler.com/bliki/FeatureToggle.html) 
 - [BroadStackTest](https://martinfowler.com/bliki/BroadStackTest.html) 
