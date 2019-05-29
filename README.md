@@ -17,6 +17,9 @@
 
 
 
+
+### May 29, 2019 
+- [The Fragmented, But Evolving State of CSS-in-JS | CSS-Tricks](https://css-tricks.com/the-fragmented-but-evolving-state-of-css-in-js/) 
 ### May 28, 2019 
 - [20 lines of code that will beat A/B testing every time](http://stevehanov.ca/blog/?id=132) 
 - [A Career Cold Start Algorithm](http://boz.com/articles/career-cold-start.html) 
