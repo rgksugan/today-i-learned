@@ -18,6 +18,9 @@
 
 
 
+
+### June 28, 2019 
+- [The CSS Mindset | Max Böck - Frontend Web Developer](https://mxb.dev/blog/the-css-mindset/) 
 ### May 29, 2019 
 - [The Fragmented, But Evolving State of CSS-in-JS | CSS-Tricks](https://css-tricks.com/the-fragmented-but-evolving-state-of-css-in-js/) 
 - [Lazy Loading Css to drastically Improve Page Speed | Webjeda](https://blog.webjeda.com/lazy-load-css/) 
