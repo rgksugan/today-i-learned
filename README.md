@@ -19,6 +19,9 @@
 
 
 
+
+### July 12, 2019 
+- [View-centric performance optimization for database-backed web applications – the morning paper](https://blog.acolyer.org/2019/07/12/view-centric-performance-optimization/) 
 ### June 28, 2019 
 - [The CSS Mindset | Max Böck - Frontend Web Developer](https://mxb.dev/blog/the-css-mindset/) 
 ### May 29, 2019 
