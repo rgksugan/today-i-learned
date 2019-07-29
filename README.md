@@ -20,6 +20,9 @@
 
 
 
+
+### July 29, 2019 
+- [Endure long enough to get noticed | Nathan Barry](https://nathanbarry.com/endure/) 
 ### July 12, 2019 
 - [View-centric performance optimization for database-backed web applications – the morning paper](https://blog.acolyer.org/2019/07/12/view-centric-performance-optimization/) 
 ### June 28, 2019 
