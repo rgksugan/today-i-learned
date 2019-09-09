@@ -21,6 +21,9 @@
 
 
 
+
+### September 9, 2019 
+- [A Senior Engineer's CheckList - Little Blah](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/) 
 ### July 29, 2019 
 - [Endure long enough to get noticed | Nathan Barry](https://nathanbarry.com/endure/) 
 ### July 12, 2019 
