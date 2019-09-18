@@ -22,6 +22,9 @@
 
 
 
+
+### September 18, 2019 
+- [Software Architecture is Overrated, Clear and Simple Design is Underrated](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) 
 ### September 9, 2019 
 - [A Senior Engineer's CheckList - Little Blah](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/) 
 ### July 29, 2019 
