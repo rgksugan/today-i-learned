@@ -24,6 +24,9 @@
 
 
 
+
+### October 1, 2019 
+- [HEAD - A free guide to <head> elements](https://htmlhead.dev/#meta) 
 ### September 27, 2019 
 - [SQL Queries for Funnel Analysis - Stats and Bots](https://blog.statsbot.co/sql-queries-for-funnel-analysis-35d5e456371d) 
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html) 
