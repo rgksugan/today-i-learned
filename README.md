@@ -25,6 +25,9 @@
 
 
 
+
+### October 7, 2019 
+- [An HTML attribute potentially worth $4.4M to Chipotle - Cloud Four](https://cloudfour.com/thinks/an-html-attribute-potentially-worth-4-4m-to-chipotle/) 
 ### October 1, 2019 
 - [HEAD - A free guide to <head> elements](https://htmlhead.dev/#meta) 
 ### September 27, 2019 
