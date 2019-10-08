@@ -26,6 +26,9 @@
 
 
 
+
+### October 8, 2019 
+- [What I Expect from a Front-end Architecture - Statuscode - Medium](https://medium.com/statuscode/what-i-expect-from-a-front-end-architecture-31b9be4498af) 
 ### October 7, 2019 
 - [An HTML attribute potentially worth $4.4M to Chipotle - Cloud Four](https://cloudfour.com/thinks/an-html-attribute-potentially-worth-4-4m-to-chipotle/) 
 ### October 1, 2019 
