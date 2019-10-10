@@ -27,6 +27,9 @@
 
 
 
+
+### October 10, 2019 
+- [leah blogs: Ken Thompson's Unix password](https://leahneukirchen.org/blog/archive/2019/10/ken-thompson-s-unix-password.html) 
 ### October 8, 2019 
 - [What I Expect from a Front-end Architecture - Statuscode - Medium](https://medium.com/statuscode/what-i-expect-from-a-front-end-architecture-31b9be4498af) 
 ### October 7, 2019 
