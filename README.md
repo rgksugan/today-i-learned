@@ -29,6 +29,9 @@
 
 
 
+
+### May 11, 2021 
+- [Chris Mccormick - One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet) 
 ### May 3, 2021 
 - [Nullish coalescing operator (??) - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator) 
 ### October 10, 2019 
