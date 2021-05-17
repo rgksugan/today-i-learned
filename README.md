@@ -30,6 +30,9 @@
 
 
 
+
+### May 17, 2021 
+- [String.prototype.padStart() - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart) 
 ### May 11, 2021 
 - [Chris Mccormick - One million people saw my dumbest tweet](https://mccormick.cx/news/entries/one-million-people-saw-my-dumbest-tweet) 
 ### May 3, 2021 
