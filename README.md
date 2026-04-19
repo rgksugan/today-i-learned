@@ -77,8 +77,6 @@
 - [Common icon design problems you should avoid - Yellowstroke.com](https://yellowstroke.com/2018/09/17/five-icon-design-problems/) 
 ### November 8, 2018 
 - [HTML: A good basis for accessibility - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) 
-### September 27, 2018 
-- [Updating a CSS Variable with JavaScript | CSS-Tricks](https://css-tricks.com/updating-a-css-variable-with-javascript/) 
 ### September 21, 2018 
 - [How to Become a Better Software Developer: A Handbook on Personal Performance – 7pace Blog](https://www.7pace.com/blog/become-a-better-programmer-skills-development) 
 ### September 11, 2018 
